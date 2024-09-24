@@ -1,0 +1,1 @@
+pythoncomparetwofiles is a simple Python utility designed to help users compare the contents of two files. Whether you're checking for differences in text documents, configuration files, or any other type of text-based files, this tool provides a straightforward way to highlight discrepancies.
